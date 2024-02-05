@@ -1,0 +1,10 @@
+div{
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+    display: block;
+}
+span {
+    background-color: red;
+    
+}
