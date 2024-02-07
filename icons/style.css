@@ -1,0 +1,21 @@
+.icons{
+    text-align: center;
+    
+}
+
+.fa-brands.fa-square-x-twitter.fa-5x{
+    margin: 10px;
+    background-color: white;
+    color: rgb(187, 131, 28);
+    
+}
+
+.fa-brands.fa-youtube.fa-5x{
+    margin: 10px;
+    color: rgb(190, 29, 29);
+}
+
+.fa-brands.fa-facebook.fa-5x{
+    margin: 10px;
+    color: rgb(30, 30, 212);
+}
