@@ -1,0 +1,12 @@
+h1 ::first letter{
+    color: black;
+}
+
+h1::selection{
+    background-color: blue;
+}
+
+#apple::after {
+    
+    content: "😆";
+}

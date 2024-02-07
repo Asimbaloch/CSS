@@ -1,0 +1,22 @@
+.pagination{
+    text-align: center;
+    text-decoration: none;
+}
+
+.pagination a{
+    text-decoration: none;
+    padding: 9px;
+    
+}
+
+.pagination a:hover {
+    background-color: hsl(0, 100%, 50%);
+    border-radius: 10px;
+}
+
+.pagination:active {
+    background-color: aqua;
+
+}
+
+
