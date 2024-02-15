@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+#navbar{
+    background-color: black;
+    height: 50px;
+}
+
+#logo {
+    margin: 39px;
+}
+
+a{
+    padding: 80px;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    margin: 20px;
+    display: inline-block;
+    height: 500px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+}

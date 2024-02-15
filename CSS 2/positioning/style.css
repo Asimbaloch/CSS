@@ -1,0 +1,13 @@
+div {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+    border: 4px solid red;
+    background-image: url("https://cdn.pixabay.com/photo/2024/01/20/16/28/rose-8521466_1280.jpg");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 40px;
+}
