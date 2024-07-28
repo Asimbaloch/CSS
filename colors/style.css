@@ -1,15 +1,25 @@
 body {
-    background-color: #4e9191ec;
+    background-color:#3d57c2;
 }
 
-h1 {
-    background-color: aliceblue;
-}
-
-.white {
+#first {
+    background-color: black;
     color: white;
 }
 
-.red {
-    color: wheat;
+
+#second {
+    background-color: rgb(90, 27, 27);
+    color: white;
+}
+
+
+#third {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+#fourth {
+    background-color: rgb(184, 88, 88);
+    color: white;
 }

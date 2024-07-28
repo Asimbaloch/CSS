@@ -1,14 +1,14 @@
-    h1{
-      border-style:solid;
-      border-radius: 20px;
-      border-color: hsl(180, 38%, 54%);
-      text-align: center;
-      
-    }
+h1 {
+  border: 2px solid rgb(150, 84, 84);  
+  border-radius: 10px;
+  padding: 3px;
+  text-align: center;
+  color: rgb(17, 0, 255);
+}
 
-    p{
-        border-style: dashed;
-        border-radius: 5px;
-        border-color: aqua;
-        text-align: center;
-    }
+p {
+  border-bottom: 1px dotted green;
+  padding: 10px;
+  border-radius: 10px;
+  color: rgb(37, 56, 56);
+}

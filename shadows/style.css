@@ -4,8 +4,8 @@
     }
 
     #box {
-        width: 200px;
         height: 200px;
-        background-color: white;
-        box-shadow: 7px 7px 7px blue;
+        width: 300px;
+        background-color: aqua;
+        box-shadow: 3px 4px 33px black;
     }
